@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  transaction_date: 2019-09-29
+  account: one
+  supplier: one
+  sign: MyString
+  reconciled: 2019-09-29
+  total: 9.99
+
+two:
+  user: two
+  transaction_date: 2019-09-29
+  account: two
+  supplier: two
+  sign: MyString
+  reconciled: 2019-09-29
+  total: 9.99
